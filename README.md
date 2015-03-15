@@ -1,0 +1,1 @@
+This program is based on the sieve of Eratosthenes. The method, written in python, will find a list of primes up till a limit.
